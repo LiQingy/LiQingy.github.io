@@ -15,6 +15,6 @@ permalink: /Products/
 </p>
 
 <p>
-<img align="left" width="350" height="280" src="../images/dis2D.pdf"><img align="right" width="380" height="150" src="../images/HSC_CLAUDS_tab.png"> 
+<img align="left" width="350" height="280" src="../images/dis2D.png"><img align="right" width="380" height="150" src="../images/HSC_CLAUDS_tab.png"> 
 </p><br><br><br><br>
 
