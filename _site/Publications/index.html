@@ -18,7 +18,38 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebSite","description":"This is my website.","headline":"Qingyang li's website","name":"Qingyang li's website","url":"http://localhost:4000/"}</script>
 <!-- End Jekyll SEO tag -->
-<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Qingyang li's website" /></head>
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Qingyang li's website" />
+
+  <style>
+  /* 设置整个页面的背景颜色或背景图片 */
+  body {
+    background: url('../images/2.jpeg') center/cover no-repeat fixed; /* 或者使用背景颜色 background-color: #your-color; */
+    margin: 0; /* 去除默认的页面边距 */
+    padding: 0; /* 去除默认的内边距 */
+    overflow-x: hidden; /* 隐藏横向滚动条 */
+  }
+
+  /* 创建左侧背景容器 */
+  .left-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 50%; /* 左侧宽度，根据需要调整 */
+    height: 100%;
+    background: inherit; /* 继承页面背景 */
+    z-index: -1; /* 将其放在页面底部 */
+  }
+ /* 创建右侧背景容器 */
+ .right-background {
+      position: fixed;
+      top: 0;
+      right: 0;
+      width: 50%; /* 右侧宽度，根据需要调整 */
+      height: 100%;
+      background: inherit; /* 继承页面背景 */
+      z-index: -1; /* 将其放在页面底部 */
+    }
+</head>
 <body><header class="site-header" role="banner">
 
   <div class="wrapper"><a class="site-title" rel="author" href="/"><b>Home</b></a><nav class="site-nav">
