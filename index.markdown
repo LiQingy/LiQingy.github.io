@@ -12,7 +12,7 @@ layout: home
 
 <br>
 
-<img align="right" width="250" height="300" src="./images/me.jpeg"> 
+<img align="right" width="300" height="300" src="./images/me.jpeg"> 
 
 
 <!-- <div align=right>
@@ -20,7 +20,7 @@ layout: home
 </div> -->
 
 <p style="width:450px">
-My name is Qingyang Li (Chinese characters: 李清洋). Now, I am earning my PhD degree at the department of astronomy, Shanghai Jiao Tong University. My works involove with galaxy clusters and galaxy formation in large scale structures. <br><br>
+My name is Qingyang Li (Chinese characters: 李清洋). Now, I am pursuing my PhD degree at the Department of Astronomy, Shanghai Jiao Tong University. My works involove with galaxy clusters and galaxy formation in large scale structures. <br><br>
 
 In past years, I focused on the baryonic distribution in hydrodynamical simulations, the dynamical mass estimation of galaxy clusters and construction of galaxy groups and protoclusters catalogue. Untile now, I have published seven papers, of which four papers are published at first author. You can find the details at section publications. <br><br> 
 
