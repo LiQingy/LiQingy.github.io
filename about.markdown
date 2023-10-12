@@ -10,6 +10,14 @@ permalink: /about/
 
 # Galaxy clusters
 
+
+<center>COMA cluster in ELUCID simulation</center>
+<center>
+<video width="320" height="240" controls autoplay>
+    <source src="../images/research/ELUCID_coma.webm" type="video/webm">
+</video>
+</center>
+
 >## Intracluster medium  
 
 \*** Study the bayron distribution based on simulated galaxy clusters. ***
@@ -64,9 +72,3 @@ We investigated the importance of various dynamical features in predicting the d
 ### 2. Convolutional Neural Network
 
 The architecture of CNN has been constructed already.
-
-
-<video width="320" height="240" controls autoplay>
-    <source src="../images/research/ELUCID_coma.mp4" type=video/mp4>
-     COMA cluster in ELUCID simulation 
-</video>
