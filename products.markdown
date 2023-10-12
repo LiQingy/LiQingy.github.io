@@ -16,5 +16,13 @@ permalink: /Products/
 
 <p>
 <img align="left" width="350" height="280" src="../images/dis2D.png"><img align="right" width="380" height="150" src="../images/HSC_CLAUDS_tab.png"> 
-</p><br><br><br><br>
+</p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+----------------------------------------------------
+
+<b><font size=4>JWST/NIRCam mock images</font></b>
+
+
+![oob](../images/research/Image_maps.png){:height="30%" width="80%"}
 
