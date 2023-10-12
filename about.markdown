@@ -3,7 +3,7 @@ layout: home
 title: about
 permalink: /about/
 ---
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 ## **<center>Research picture</center>**
 
 ![research-flow](../images/research-flow.png){:height="50%" width="100%"}
