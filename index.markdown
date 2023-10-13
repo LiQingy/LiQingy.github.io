@@ -12,14 +12,14 @@ layout: home
 
 <br>
 
-<img align="right" width="300" height="300" src="./images/me.jpeg"> 
+<img align="right" width="280" height="300" src="./images/me.jpeg"> 
 
 
 <!-- <div align=right>
 ![Bear](./images/Bear.jpg){:class="img-responsive"}
 </div> -->
 
-<p style="width:450px">
+<p style="width:460px">
 My name is Qingyang Li (Chinese characters: 李清洋). Now, I am pursuing my PhD degree at the Department of Astronomy, Shanghai Jiao Tong University, under the supervision of Prof. Xiaohu Yang and Prof. Jiaxin Han. <br><br> 
 
 I endeavor toward the understanding of galaxy formation, cosmology, and large-scale structure based on galaxy clusters. In my prior research, I have predominantly delved into the realms of the <b>intracluster medium (ICM)</b>, <b>groups and protoclusters</b>, <b>galaxy dynamics</b>, and the application of <b>machine learning</b> methodologies. <br><br>
