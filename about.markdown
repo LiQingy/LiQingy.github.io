@@ -71,4 +71,4 @@ We investigated the importance of various dynamical features in predicting the d
 
 ### 2. Convolutional Neural Network
 
-The architecture of CNN has been constructed already.
+The architecture of CNN has been constructed already. The model is applied to the study of SIMBA and DESI galaxy samples.
