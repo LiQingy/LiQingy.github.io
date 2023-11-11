@@ -46,7 +46,7 @@ We carry out a comprehensive investigation on these aspects by applying a relati
 
 >## Groups and Protoclusters
 
-\*** Construct the groups and protocluster candidate catalogue in HSC and CLAUDS deep region. ***
+\*** Construct the groups and protocluster candidate catalog in HSC and CLAUDS deep region. ***
 
 In <a href="https://ui.adsabs.harvard.edu/abs/2022ApJ...933....9L/abstract" target= "_blank"><font color="#0000dd">Li et al. (2022b)</font></a>, we used the extended halo-based group/cluster finder to search groups and protocluster candidates from the joint CLAUDS and HSC-SSP deep **photometric** data, which allows us to extend a wide redshift range (0 < *z* < 6). You can find the details of this catalog in **Products**.
 
@@ -55,7 +55,7 @@ In <a href="https://ui.adsabs.harvard.edu/abs/2022ApJ...933....9L/abstract" targ
 
 >## JWST galaxies
 
-The JWST/NIRCam mock images for the galaxies at the epoch of reionization have been generated from the SIMBA simulation, using the dust radiative transfer package Powderday. The example of image is shown in **Products**.   
+The JWST/NIRCam mock images for the galaxies at the epoch of reionization have been generated from the SIMBA simulation, using the dust radiative transfer package Powderday. We are using machine learning algorithms to analyze these images. The example of image is shown in **Products**.   
 
 -------------------------------------------------------
 # Techniques
